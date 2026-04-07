@@ -1,0 +1,7 @@
+# Ignore local artifacts
+.env
+.acmoj_token
+a.out
+*.o
+*.out
+*.log
